@@ -2,7 +2,7 @@
 - 👀 I’m interested in Coding 
 - 🌱 I’m currently learning web developer 
 - 💞️ I’m looking to collaborate on every proyect you have.
-- 📫 How to reach me www.fede-masin.com
+- 📫 How to reach me federico.a.masin@gmail.com
 
 <!---
 fedeMasin/fedeMasin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
