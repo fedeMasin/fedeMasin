@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @fedeMasin
-- 👀 I’m interested in Coding 
-- 🌱 I’m currently learning web developer 
+- 👀 I’m interested in IT General knowledge 
+- 🌱 I’m currently learning Devops
 - 💞️ I’m looking to collaborate on every proyect you have.
-- 📫 How to reach me federico.a.masin@gmail.com
+- 📫 How to reach me fefes1836@gmail.com
 
 <!---
 fedeMasin/fedeMasin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
